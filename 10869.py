@@ -1,0 +1,6 @@
+numIn = input().split()
+print(int(numIn[0]) + int(numIn[1]))
+print(int(numIn[0]) - int(numIn[1]))
+print(int(numIn[0]) * int(numIn[1]))
+print(int(int(numIn[0]) / int(numIn[1])))
+print(int(numIn[0]) % int(numIn[1]))
