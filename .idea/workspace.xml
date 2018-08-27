@@ -4,9 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/2577.py" line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="숫자의 개수">
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="구구단">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2675.py" beforeDir="false" afterPath="$PROJECT_DIR$/2675.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2741.py" beforeDir="false" afterPath="$PROJECT_DIR$/2741.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,37 +30,55 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
+          <entry key="py" value="24" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="22" />
+          <entry key="Python" value="24" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="205" />
-          <entry key="txt" value="111" />
+          <entry key="py" value="209" />
+          <entry key="txt" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="111" />
-          <entry key="Python" value="205" />
+          <entry key="PLAIN_TEXT" value="120" />
+          <entry key="Python" value="209" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2675.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2739.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2741.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -95,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15552.py" />
-        <option value="$PROJECT_DIR$/10998.py" />
         <option value="$PROJECT_DIR$/10869.py" />
         <option value="$PROJECT_DIR$/10430.py" />
         <option value="$PROJECT_DIR$/2839.py" />
@@ -146,6 +162,8 @@
         <option value="$PROJECT_DIR$/2558.py" />
         <option value="$PROJECT_DIR$/2577.py" />
         <option value="$PROJECT_DIR$/2675.py" />
+        <option value="$PROJECT_DIR$/2739.py" />
+        <option value="$PROJECT_DIR$/2741.py" />
       </list>
     </option>
   </component>
@@ -542,7 +560,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535333321042</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="문자열 반복">
+      <created>1535333515950</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1535333515950</updated>
+    </task>
+    <task id="LOCAL-00020" summary="구구단">
+      <created>1535333651316</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1535333651316</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -591,10 +623,11 @@
     <MESSAGE value="Hello World" />
     <MESSAGE value="A+B - 2" />
     <MESSAGE value="숫자의 개수" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자의 개수" />
+    <MESSAGE value="문자열 반복" />
+    <MESSAGE value="구구단" />
+    <option name="LAST_COMMIT_MESSAGE" value="구구단" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../raspberryPi/webapp/templates/index_css.html" />
     <entry file="file://$PROJECT_DIR$/../raspberryPi/webapp/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/../raspberryPi/webapp/app_sensor.py" />
     <entry file="file://$PROJECT_DIR$/../raspberryPi/webapp/app4_exam.py" />
@@ -829,9 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2739.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2525.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -864,6 +894,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2739.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2741.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
