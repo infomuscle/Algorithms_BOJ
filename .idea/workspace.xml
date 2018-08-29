@@ -4,10 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/1065.py" line="22" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="한수">
-      <change afterPath="$PROJECT_DIR$/2448.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="크로아티아 알파벳">
+      <change afterPath="$PROJECT_DIR$/1316.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5622.py" beforeDir="false" afterPath="$PROJECT_DIR$/5622.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -21,39 +20,41 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="42" />
+          <entry key="py" value="44" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="42" />
+          <entry key="Python" value="44" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="775" />
-          <entry key="txt" value="196" />
+          <entry key="py" value="1671" />
+          <entry key="txt" value="211" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="196" />
-          <entry key="Python" value="775" />
+          <entry key="PLAIN_TEXT" value="211" />
+          <entry key="Python" value="1671" />
         </counts>
       </usages-collector>
     </session>
@@ -61,10 +62,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5622.py">
+        <entry file="file://$PROJECT_DIR$/1316.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="270">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <marker date="1535501414365" expanded="true" signature="54:286" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../raspberryPi/webapp_ex/ModLED.py" />
         <option value="$PROJECT_DIR$/../raspberryPi/webapp_ex/app_ex.py" />
         <option value="$PROJECT_DIR$/../raspberryPi/mqtt/pub.py" />
         <option value="$PROJECT_DIR$/../raspberryPi/mqtt/sub.py" />
@@ -113,7 +116,6 @@
         <option value="$PROJECT_DIR$/8958.py" />
         <option value="$PROJECT_DIR$/2920.py" />
         <option value="$PROJECT_DIR$/11654.py" />
-        <option value="$PROJECT_DIR$/1316.py" />
         <option value="$PROJECT_DIR$/2908.py" />
         <option value="$PROJECT_DIR$/2750.py" />
         <option value="$PROJECT_DIR$/1000.py" />
@@ -150,6 +152,8 @@
         <option value="$PROJECT_DIR$/2448.py" />
         <option value="$PROJECT_DIR$/IoT 서비스 구현 입문_1차 수행 평가.py" />
         <option value="$PROJECT_DIR$/5622.py" />
+        <option value="$PROJECT_DIR$/2941.py" />
+        <option value="$PROJECT_DIR$/1316.py" />
       </list>
     </option>
   </component>
@@ -199,8 +203,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5622">
-    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1316">
+    <configuration name="1316" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,28 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1065.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11719" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="acmicpc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11719.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1316.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,6 +238,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2448.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2941" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="acmicpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2941.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -393,19 +397,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.11719" />
-      <item itemvalue="Python.1065" />
       <item itemvalue="Python.2448" />
       <item itemvalue="Python.IoT 서비스 구현 입문_1차 수행 평가" />
       <item itemvalue="Python.5622" />
+      <item itemvalue="Python.2941" />
+      <item itemvalue="Python.1316" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1316" />
+        <item itemvalue="Python.2941" />
         <item itemvalue="Python.5622" />
         <item itemvalue="Python.IoT 서비스 구현 입문_1차 수행 평가" />
         <item itemvalue="Python.2448" />
-        <item itemvalue="Python.1065" />
-        <item itemvalue="Python.11719" />
       </list>
     </recent_temporary>
   </component>
@@ -672,7 +676,21 @@
       <option name="project" value="LOCAL" />
       <updated>1535421774881</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="다이얼">
+      <created>1535453953721</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1535453953721</updated>
+    </task>
+    <task id="LOCAL-00038" summary="크로아티아 알파벳">
+      <created>1535456347916</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1535456347916</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -703,8 +721,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="평균" />
-    <MESSAGE value="2007년" />
     <MESSAGE value="별찍기 - 1" />
     <MESSAGE value="별찍기 - 2" />
     <MESSAGE value="별찍기 - 3" />
@@ -728,11 +744,11 @@
     <MESSAGE value="세 수" />
     <MESSAGE value="사칙연산" />
     <MESSAGE value="한수" />
-    <option name="LAST_COMMIT_MESSAGE" value="한수" />
+    <MESSAGE value="다이얼" />
+    <MESSAGE value="크로아티아 알파벳" />
+    <option name="LAST_COMMIT_MESSAGE" value="크로아티아 알파벳" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../raspberryPi/mqtt/pi_sub.py" />
-    <entry file="file://$PROJECT_DIR$/../raspberryPi/mqtt/pi_pub_peri21.py" />
     <entry file="file://$PROJECT_DIR$/../raspberryPi/GPIO_ex/120p_I2C_LIGHT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1039,8 +1055,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5622.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2941.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1316.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <marker date="1535501414365" expanded="true" signature="54:286" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
