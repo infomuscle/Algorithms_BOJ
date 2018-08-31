@@ -23,7 +23,6 @@ while lineLast < 11000000:
     lineLast += lineAdder
     lineAdder += 1
 
-
 order = int(input())
 
 if order == 1:
