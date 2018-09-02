@@ -39,7 +39,6 @@ def midFinder(nBox):
 def modFinder(nBox):
     cntDic = Counter(nBox)
     cntTpl = cntDic.most_common()
-    # print(cntTpl)
     if len(nBox) > 1:
         if cntTpl[0][1] == cntTpl[1][1]:
             mod = cntTpl[1][0]
