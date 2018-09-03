@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/15954.py" line="50" />
-    <bookmark url="file://$PROJECT_DIR$/15954.py" line="16" />
-    <bookmark url="file://$PROJECT_DIR$/15954.py" line="28" />
-    <bookmark url="file://$PROJECT_DIR$/15954.py" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/15954.py" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="상금 헌터">
-      <change afterPath="$PROJECT_DIR$/15954.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="인형들 - 풀이 중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15954.py" beforeDir="false" afterPath="$PROJECT_DIR$/15954.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -23,18 +20,19 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,14 +49,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9297" />
-          <entry key="txt" value="271" />
+          <entry key="py" value="10387" />
+          <entry key="txt" value="282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="271" />
-          <entry key="Python" value="9297" />
+          <entry key="PLAIN_TEXT" value="282" />
+          <entry key="Python" value="10387" />
         </counts>
       </usages-collector>
     </session>
@@ -68,13 +66,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15954.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="270">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1535901530439" expanded="true" signature="141:146" ph="..." />
-                <marker date="1535901530439" expanded="true" signature="242:247" ph="..." />
-                <marker date="1535901530439" expanded="true" signature="376:383" ph="..." />
+                <marker date="1535943631985" expanded="true" signature="23:24" ph="..." />
+                <marker date="1535943631985" expanded="true" signature="141:558" ph="..." />
               </folding>
             </state>
           </provider>
@@ -177,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +186,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -769,7 +766,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535881754884</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="인형들 - 풀이 중">
+      <created>1535901633660</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1535901633660</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -786,7 +790,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32332155" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39929327" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -800,7 +804,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숫자의 개수" />
     <MESSAGE value="문자열 반복" />
     <MESSAGE value="구구단" />
     <MESSAGE value="N 찍기" />
@@ -825,7 +828,8 @@
     <MESSAGE value="분수찾기" />
     <MESSAGE value="통계학" />
     <MESSAGE value="상금 헌터" />
-    <option name="LAST_COMMIT_MESSAGE" value="상금 헌터" />
+    <MESSAGE value="인형들 - 풀이 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="인형들 - 풀이 중" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../raspberryPi/GPIO_ex/ModMTR.py">
@@ -1144,13 +1148,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15954.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="270">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1535901530439" expanded="true" signature="141:146" ph="..." />
-            <marker date="1535901530439" expanded="true" signature="242:247" ph="..." />
-            <marker date="1535901530439" expanded="true" signature="376:383" ph="..." />
+            <marker date="1535943631985" expanded="true" signature="23:24" ph="..." />
+            <marker date="1535943631985" expanded="true" signature="141:558" ph="..." />
           </folding>
         </state>
       </provider>
