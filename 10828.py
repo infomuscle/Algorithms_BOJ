@@ -22,7 +22,7 @@ stack = []
 n = int(sys.stdin.readline())
 
 for i in range(0, n):
-    cmd = input()
+    cmd = sys.stdin.readline().rstrip()
     if cmd[:4] == "push":
         stack.append(int(cmd[5:]))
     elif cmd == "pop":
