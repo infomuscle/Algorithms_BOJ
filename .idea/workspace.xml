@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/15954.py" line="20" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="아스키 코드">
-      <change beforePath="$PROJECT_DIR$/11720.py" beforeDir="false" afterPath="$PROJECT_DIR$/11720.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="스택">
+      <change afterPath="$PROJECT_DIR$/1427.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -19,7 +17,7 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
@@ -30,68 +28,45 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="58" />
+          <entry key="py" value="63" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="58" />
+          <entry key="Python" value="63" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="10965" />
-          <entry key="txt" value="294" />
+          <entry key="py" value="11268" />
+          <entry key="txt" value="324" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="294" />
-          <entry key="Python" value="10965" />
+          <entry key="PLAIN_TEXT" value="324" />
+          <entry key="Python" value="11268" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10998.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11654.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11720.py">
+        <entry file="file://$PROJECT_DIR$/1427.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11721.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -128,9 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/8958.py" />
-        <option value="$PROJECT_DIR$/2920.py" />
-        <option value="$PROJECT_DIR$/2908.py" />
         <option value="$PROJECT_DIR$/2750.py" />
         <option value="$PROJECT_DIR$/1000.py" />
         <option value="$PROJECT_DIR$/1001.py" />
@@ -175,10 +147,13 @@
         <option value="$PROJECT_DIR$/2108.py" />
         <option value="$PROJECT_DIR$/15953.py" />
         <option value="$PROJECT_DIR$/15954.py" />
-        <option value="$PROJECT_DIR$/10828.py" />
         <option value="$PROJECT_DIR$/10998.py" />
         <option value="$PROJECT_DIR$/11654.py" />
         <option value="$PROJECT_DIR$/11720.py" />
+        <option value="$PROJECT_DIR$/11721.py" />
+        <option value="$PROJECT_DIR$/15552.py" />
+        <option value="$PROJECT_DIR$/10828.py" />
+        <option value="$PROJECT_DIR$/1427.py" />
       </list>
     </option>
   </component>
@@ -193,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,6 +179,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10828">
+  <component name="RunManager" selected="Python.1427">
     <configuration name="10828" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1193" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1427" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,7 +237,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1193.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1427.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -422,19 +397,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1193" />
       <item itemvalue="Python.2108" />
       <item itemvalue="Python.15953" />
       <item itemvalue="Python.15954" />
       <item itemvalue="Python.10828" />
+      <item itemvalue="Python.1427" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1427" />
         <item itemvalue="Python.10828" />
         <item itemvalue="Python.15954" />
         <item itemvalue="Python.15953" />
         <item itemvalue="Python.2108" />
-        <item itemvalue="Python.1193" />
       </list>
     </recent_temporary>
   </component>
@@ -448,34 +423,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00005" summary="A/B">
-      <created>1535013719515</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1535013719515</updated>
-    </task>
-    <task id="LOCAL-00006" summary="더하기 사이클">
-      <created>1535013797078</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1535013797078</updated>
-    </task>
-    <task id="LOCAL-00007" summary="단어의 개수">
-      <created>1535013926084</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1535013926084</updated>
-    </task>
-    <task id="LOCAL-00008" summary="단어 공부">
-      <created>1535013962461</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1535013962461</updated>
     </task>
     <task id="LOCAL-00009" summary="평균">
       <created>1535014046986</created>
@@ -792,7 +739,35 @@
       <option name="project" value="LOCAL" />
       <updated>1536023114587</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="숫자의 합">
+      <created>1536023151709</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1536023151709</updated>
+    </task>
+    <task id="LOCAL-00055" summary="열 개씩 끊어 출력하기">
+      <created>1536023201975</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1536023201975</updated>
+    </task>
+    <task id="LOCAL-00056" summary="빠른 A+B">
+      <created>1536023298037</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1536023298037</updated>
+    </task>
+    <task id="LOCAL-00057" summary="스택">
+      <created>1536023627312</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1536023627312</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -823,9 +798,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="기찍 N" />
-    <MESSAGE value="그대로 출력하기" />
-    <MESSAGE value="그대로 출력하기 2" />
     <MESSAGE value="X보다 작은 수" />
     <MESSAGE value="평균 점수" />
     <MESSAGE value="개" />
@@ -845,26 +817,15 @@
     <MESSAGE value="통계학" />
     <MESSAGE value="상금 헌터" />
     <MESSAGE value="인형들 - 풀이 중" />
-    <MESSAGE value="스택" />
     <MESSAGE value="AxB" />
     <MESSAGE value="아스키 코드" />
-    <option name="LAST_COMMIT_MESSAGE" value="아스키 코드" />
+    <MESSAGE value="숫자의 합" />
+    <MESSAGE value="열 개씩 끊어 출력하기" />
+    <MESSAGE value="빠른 A+B" />
+    <MESSAGE value="스택" />
+    <option name="LAST_COMMIT_MESSAGE" value="스택" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/4673.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1126,10 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1535943631985" expanded="true" signature="23:24" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,13 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
           <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10828.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -1168,13 +1118,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11721.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/11720.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11721.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15552.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10828.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1427.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
