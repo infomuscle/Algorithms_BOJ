@@ -5,10 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/6064.py" line="38" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="카잉 달력 - 시간 초과">
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="별찍기 - 11 - 풀이 중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2448.py" beforeDir="false" afterPath="$PROJECT_DIR$/2448.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8958.py" beforeDir="false" afterPath="$PROJECT_DIR$/8958.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9498.py" beforeDir="false" afterPath="$PROJECT_DIR$/9498.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -22,7 +21,7 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="3" />
@@ -30,47 +29,66 @@
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="10" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="76" />
+          <entry key="py" value="78" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="76" />
+          <entry key="Python" value="78" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="15863" />
-          <entry key="txt" value="398" />
+          <entry key="py" value="15873" />
+          <entry key="txt" value="418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="398" />
-          <entry key="Python" value="15863" />
+          <entry key="PLAIN_TEXT" value="418" />
+          <entry key="Python" value="15873" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8958.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2448.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9498.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -111,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2441.py" />
         <option value="$PROJECT_DIR$/2525.py" />
         <option value="$PROJECT_DIR$/2557.py" />
         <option value="$PROJECT_DIR$/2558.py" />
@@ -159,9 +176,10 @@
         <option value="$PROJECT_DIR$/10250.py" />
         <option value="$PROJECT_DIR$/7287.py" />
         <option value="$PROJECT_DIR$/6064.py" />
-        <option value="$PROJECT_DIR$/2448.py" />
         <option value="$PROJECT_DIR$/8393.py" />
         <option value="$PROJECT_DIR$/8958.py" />
+        <option value="$PROJECT_DIR$/2448.py" />
+        <option value="$PROJECT_DIR$/9498.py" />
       </list>
     </option>
   </component>
@@ -432,20 +450,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00023" summary="그대로 출력하기">
-      <created>1535346526811</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1535346526811</updated>
-    </task>
-    <task id="LOCAL-00024" summary="그대로 출력하기 2">
-      <created>1535346964919</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1535346964919</updated>
     </task>
     <task id="LOCAL-00025" summary="X보다 작은 수">
       <created>1535420165645</created>
@@ -776,7 +780,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536573348906</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="OX퀴즈">
+      <created>1536660161258</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1536660161294</updated>
+    </task>
+    <task id="LOCAL-00073" summary="별찍기 - 11 - 풀이 중">
+      <created>1536660335049</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1536660335049</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -788,7 +806,7 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32685512" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -807,8 +825,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="수 정렬하기 2" />
-    <MESSAGE value="부녀회장이 될테야 - 시간초과" />
     <MESSAGE value="부녀회장이 될테야" />
     <MESSAGE value="분수찾기" />
     <MESSAGE value="통계학" />
@@ -832,16 +848,11 @@
     <MESSAGE value="등록" />
     <MESSAGE value="카잉 달력 - 시간 초과" />
     <MESSAGE value="합" />
-    <option name="LAST_COMMIT_MESSAGE" value="합" />
+    <MESSAGE value="OX퀴즈" />
+    <MESSAGE value="별찍기 - 11 - 풀이 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="별찍기 - 11 - 풀이 중" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2525.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2558.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1144,9 +1155,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2448.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/8393.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1157,7 +1165,21 @@
     <entry file="file://$PROJECT_DIR$/8958.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2448.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9498.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
