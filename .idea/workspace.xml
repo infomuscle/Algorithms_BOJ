@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="시험 성적">
-      <change afterPath="$PROJECT_DIR$/problem2-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem3-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem6-test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem6.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="지능형 기차">
+      <change afterPath="$PROJECT_DIR$/1094.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -29,7 +23,7 @@
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
@@ -37,31 +31,31 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="11" />
-          <entry key="project.opened" value="39" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="85" />
+          <entry key="py" value="87" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="85" />
+          <entry key="Python" value="87" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20646" />
-          <entry key="txt" value="424" />
+          <entry key="py" value="22109" />
+          <entry key="txt" value="431" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="424" />
-          <entry key="Python" value="20646" />
+          <entry key="PLAIN_TEXT" value="431" />
+          <entry key="Python" value="22109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -70,28 +64,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem6.py">
+        <entry file="file://$PROJECT_DIR$/1094.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem6-test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="135">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding>
+                <marker date="1537525004265" expanded="true" signature="47:48" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2742.py" />
-        <option value="$PROJECT_DIR$/11718.py" />
         <option value="$PROJECT_DIR$/11719.py" />
         <option value="$PROJECT_DIR$/10871.py" />
         <option value="$PROJECT_DIR$/10039.py" />
@@ -187,6 +164,8 @@
         <option value="$PROJECT_DIR$/problem6-test.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/problem6.py" />
+        <option value="$PROJECT_DIR$/2455.py" />
+        <option value="$PROJECT_DIR$/1094.py" />
       </list>
     </option>
   </component>
@@ -237,8 +216,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.problem6">
-    <configuration name="problem2-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1094">
+    <configuration name="1094" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem2-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1094.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="problem2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2455" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +250,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2455.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,19 +410,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.problem2" />
-      <item itemvalue="Python.problem2-test" />
       <item itemvalue="Python.problem3" />
       <item itemvalue="Python.problem6" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.2455" />
+      <item itemvalue="Python.1094" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1094" />
+        <item itemvalue="Python.2455" />
         <item itemvalue="Python.problem6" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.problem3" />
-        <item itemvalue="Python.problem2" />
-        <item itemvalue="Python.problem2-test" />
       </list>
     </recent_temporary>
   </component>
@@ -457,13 +436,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00026" summary="X보다 작은 수">
-      <created>1535420520459</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1535420520459</updated>
     </task>
     <task id="LOCAL-00027" summary="평균 점수">
       <created>1535420565280</created>
@@ -801,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536745652732</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="지능형 기차">
+      <created>1537521196327</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1537521196329</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -832,7 +811,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="분수찾기" />
     <MESSAGE value="통계학" />
     <MESSAGE value="상금 헌터" />
     <MESSAGE value="인형들 - 풀이 중" />
@@ -857,11 +835,10 @@
     <MESSAGE value="OX퀴즈" />
     <MESSAGE value="별찍기 - 11 - 풀이 중" />
     <MESSAGE value="시험 성적" />
-    <option name="LAST_COMMIT_MESSAGE" value="시험 성적" />
+    <MESSAGE value="지능형 기차" />
+    <option name="LAST_COMMIT_MESSAGE" value="지능형 기차" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11718.py" />
-    <entry file="file://$PROJECT_DIR$/11719.py" />
     <entry file="file://$PROJECT_DIR$/2557.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1172,24 +1149,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/problem6-test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="285">
           <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem6.py">
+    <entry file="file://$PROJECT_DIR$/2455.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1094.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1537525004265" expanded="true" signature="47:48" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
