@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="단어 정렬">
-      <change afterPath="$PROJECT_DIR$/10989.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="수 정렬하기 3 - 풀이 중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2448.py" beforeDir="false" afterPath="$PROJECT_DIR$/2448.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -17,7 +17,7 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="3" />
@@ -28,35 +28,36 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="11" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="97" />
+          <entry key="py" value="98" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="97" />
+          <entry key="Python" value="98" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="27779" />
-          <entry key="txt" value="531" />
+          <entry key="py" value="28887" />
+          <entry key="txt" value="547" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="531" />
-          <entry key="Python" value="27779" />
+          <entry key="PLAIN_TEXT" value="547" />
+          <entry key="Python" value="28887" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -65,10 +66,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10989.py">
+        <entry file="file://$PROJECT_DIR$/2448.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <marker date="1537776653590" expanded="true" signature="442:443" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,7 +150,6 @@
         <option value="$PROJECT_DIR$/6064.py" />
         <option value="$PROJECT_DIR$/8393.py" />
         <option value="$PROJECT_DIR$/8958.py" />
-        <option value="$PROJECT_DIR$/2448.py" />
         <option value="$PROJECT_DIR$/9498.py" />
         <option value="$PROJECT_DIR$/problem2-test.py" />
         <option value="$PROJECT_DIR$/problem2.py" />
@@ -164,14 +167,15 @@
         <option value="$PROJECT_DIR$/10845.py" />
         <option value="$PROJECT_DIR$/1181.py" />
         <option value="$PROJECT_DIR$/10989.py" />
+        <option value="$PROJECT_DIR$/2448.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+    <option name="x" value="2376" />
+    <option name="y" value="136" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,7 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +196,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10989">
+  <component name="RunManager" selected="Python.2448">
     <configuration name="10845" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,6 +285,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2448" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="acmicpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2448.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="6064" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,27 +319,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6064.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CM4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="acmicpc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CM4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,19 +415,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.CM4" />
       <item itemvalue="Python.6064" />
       <item itemvalue="Python.10845" />
       <item itemvalue="Python.1181" />
       <item itemvalue="Python.10989" />
+      <item itemvalue="Python.2448" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2448" />
         <item itemvalue="Python.10989" />
         <item itemvalue="Python.1181" />
         <item itemvalue="Python.10845" />
         <item itemvalue="Python.6064" />
-        <item itemvalue="Python.CM4" />
       </list>
     </recent_temporary>
   </component>
@@ -437,13 +441,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00036" summary="한수">
-      <created>1535421774881</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1535421774881</updated>
     </task>
     <task id="LOCAL-00037" summary="다이얼">
       <created>1535453953721</created>
@@ -781,15 +778,22 @@
       <option name="project" value="LOCAL" />
       <updated>1537679250332</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="수 정렬하기 3 - 풀이 중">
+      <created>1537688817579</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1537688817579</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16428572" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.109004736" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -797,7 +801,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49920633" weight="0.32155478" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920633" visible="true" weight="0.19675675" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39929327" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -812,7 +816,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="숫자의 합" />
     <MESSAGE value="열 개씩 끊어 출력하기" />
     <MESSAGE value="빠른 A+B" />
     <MESSAGE value="스택" />
@@ -837,7 +840,8 @@
     <MESSAGE value="지능형 기차" />
     <MESSAGE value="큐" />
     <MESSAGE value="단어 정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="단어 정렬" />
+    <MESSAGE value="수 정렬하기 3 - 풀이 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="수 정렬하기 3 - 풀이 중" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/10817.py">
@@ -1052,13 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2448.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8958.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1145,7 +1142,17 @@
     <entry file="file://$PROJECT_DIR$/10989.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2448.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1537776653590" expanded="true" signature="442:443" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
