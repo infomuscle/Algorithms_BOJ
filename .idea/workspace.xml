@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="수 정렬하기 3 - 풀이 중">
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="별찍기 - 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2448.py" beforeDir="false" afterPath="$PROJECT_DIR$/2448.py" afterDir="false" />
     </list>
@@ -50,14 +50,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="28887" />
-          <entry key="txt" value="547" />
+          <entry key="py" value="30704" />
+          <entry key="txt" value="564" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="547" />
-          <entry key="Python" value="28887" />
+          <entry key="PLAIN_TEXT" value="564" />
+          <entry key="Python" value="30704" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -68,10 +68,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2448.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <marker date="1537776653590" expanded="true" signature="442:443" ph="..." />
+                <element signature="e#194#204#0" expanded="true" />
+                <marker date="1537784954225" expanded="true" signature="612:613" ph="..." />
               </folding>
             </state>
           </provider>
@@ -442,20 +443,6 @@
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
     </task>
-    <task id="LOCAL-00037" summary="다이얼">
-      <created>1535453953721</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1535453953721</updated>
-    </task>
-    <task id="LOCAL-00038" summary="크로아티아 알파벳">
-      <created>1535456347916</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1535456347916</updated>
-    </task>
     <task id="LOCAL-00039" summary="그룹 단어 체커">
       <created>1535501497482</created>
       <option name="number" value="00039" />
@@ -785,7 +772,21 @@
       <option name="project" value="LOCAL" />
       <updated>1537688817579</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="별찍기 - 11 - 풀이 중">
+      <created>1537776783392</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1537776783393</updated>
+    </task>
+    <task id="LOCAL-00087" summary="별찍기 - 11">
+      <created>1537784865509</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1537784865509</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -816,7 +817,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="열 개씩 끊어 출력하기" />
     <MESSAGE value="빠른 A+B" />
     <MESSAGE value="스택" />
     <MESSAGE value="소트인사이드" />
@@ -832,7 +832,6 @@
     <MESSAGE value="카잉 달력 - 시간 초과" />
     <MESSAGE value="합" />
     <MESSAGE value="OX퀴즈" />
-    <MESSAGE value="별찍기 - 11 - 풀이 중" />
     <MESSAGE value="시험 성적" />
     <MESSAGE value="LG Code Monster" />
     <MESSAGE value="LG Code Monster - 미해결" />
@@ -841,7 +840,9 @@
     <MESSAGE value="큐" />
     <MESSAGE value="단어 정렬" />
     <MESSAGE value="수 정렬하기 3 - 풀이 중" />
-    <option name="LAST_COMMIT_MESSAGE" value="수 정렬하기 3 - 풀이 중" />
+    <MESSAGE value="별찍기 - 11 - 풀이 중" />
+    <MESSAGE value="별찍기 - 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="별찍기 - 11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/10817.py">
@@ -1148,10 +1149,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2448.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <marker date="1537776653590" expanded="true" signature="442:443" ph="..." />
+            <element signature="e#194#204#0" expanded="true" />
+            <marker date="1537784954225" expanded="true" signature="612:613" ph="..." />
           </folding>
         </state>
       </provider>
