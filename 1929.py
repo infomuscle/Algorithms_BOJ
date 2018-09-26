@@ -8,7 +8,6 @@
 # 한 줄에 하나씩, 증가하는 순서대로 소수를 출력한다.
 
 import sys
-import math
 
 m, n = map(int, sys.stdin.readline().split())
 primes = []
@@ -19,7 +18,7 @@ for i in range(m, n+1):
     elif i == 2:
         print(i)
     else:
-        end = int(math.sqrt(i))+1
+        end = int(i**0.5)+1
         flag = 1
         for j in range(2, end+1):
             if i%j == 0:
