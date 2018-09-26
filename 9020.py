@@ -21,7 +21,6 @@
 import sys
 
 primes = []
-
 for i in range(1, 10000):
     if i == 1:
         continue
@@ -36,18 +35,14 @@ for i in range(1, 10000):
                 break
         if flag == True:
             primes.append(i)
-
 lenPrimes = len(primes)
 
 tc = int(sys.stdin.readline())
-
 for t in range(0, tc):
     n = int(sys.stdin.readline())
     resultA, resultB = 0,0
 
-    mid = 0
-    idx = 0
-
+    mid, idx = 0,0
     for i in range(0, lenPrimes):
         if primes[i] <= n/2 and primes[i] > mid:
             mid = primes[i]
