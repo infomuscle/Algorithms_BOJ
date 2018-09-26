@@ -5,9 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/6064.py" line="45" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="소수">
-      <change afterPath="$PROJECT_DIR$/1929.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="에라토스테네스의 체 - 풀이 중">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1929.py" beforeDir="false" afterPath="$PROJECT_DIR$/1929.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -21,8 +21,8 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="45" />
-          <entry key="project.open.time.10" value="7" />
+          <entry key="project.closed" value="46" />
+          <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="3" />
@@ -38,7 +38,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="13" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,14 +55,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="35001" />
-          <entry key="txt" value="610" />
+          <entry key="py" value="35645" />
+          <entry key="txt" value="632" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="610" />
-          <entry key="Python" value="35001" />
+          <entry key="PLAIN_TEXT" value="632" />
+          <entry key="Python" value="35645" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -75,9 +75,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" selection-start-line="11" selection-end-line="20" selection-end-column="15" />
-              <folding>
-                <marker date="1537930219808" expanded="true" signature="230:329" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1929.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -208,7 +205,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +216,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,13 +461,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00046" summary="통계학">
-      <created>1535877060095</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1535877060096</updated>
     </task>
     <task id="LOCAL-00047" summary="통계학">
       <created>1535880282609</created>
@@ -808,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537930550698</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="에라토스테네스의 체 - 풀이 중">
+      <created>1537932140401</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1537932140401</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -839,7 +836,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="윷놀이" />
     <MESSAGE value="음계" />
     <MESSAGE value="평균은 넘겠지" />
     <MESSAGE value="셀프 넘버" />
@@ -864,7 +860,8 @@
     <MESSAGE value="카잉 달력" />
     <MESSAGE value="소수 찾기" />
     <MESSAGE value="소수" />
-    <option name="LAST_COMMIT_MESSAGE" value="소수" />
+    <MESSAGE value="에라토스테네스의 체 - 풀이 중" />
+    <option name="LAST_COMMIT_MESSAGE" value="에라토스테네스의 체 - 풀이 중" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1316.py">
@@ -1165,9 +1162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <marker date="1537930219808" expanded="true" signature="230:329" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1180,8 +1174,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1929.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
