@@ -2,17 +2,7 @@ import sys
 
 stack, printBox = [], []
 top, num = 0,0
-
-def topper(cmd, top):
-    if cmd == "add":
-        top += 1
-        if top > 7:
-            top = 7
-    elif cmd == "sub":
-        top -= 1
-        if top < 0:
-            top = 0
-    return top
+flag = 1
 
 n = int(sys.stdin.readline())
 
@@ -21,39 +11,42 @@ for i in range(0, n):
     if len(stack) == 0:
         num += 1
         stack.append(num)
-        printBox.append("+")
-        top = topper("add", top)
+        printBox.append(1)
+        top += 1
         if stack[top-1] == k:
             stack.pop()
-            printBox.append("-")
-            top = topper("sub", top)
+            printBox.append(0)
+            top -= 1
         else:
             while stack[top-1] != k:
                 num += 1
                 stack.append(num)
-                printBox.append("+")
-                top = topper("add", top)
+                printBox.append(1)
+                top += 1
             stack.pop()
-            printBox.append("-")
-            top = topper("sub", top)
+            printBox.append(0)
+            top -= 1
     elif stack[top-1] < k:
         while stack[top-1] != k:
             num += 1
             stack.append(num)
-            printBox.append("+")
-            top = topper("add", top)
+            printBox.append(1)
+            top += 1
         stack.pop()
-        printBox.append("-")
-        top = topper("sub", top)
+        printBox.append(0)
+        top -= 1
     elif stack[top-1] == k:
         stack.pop()
-        printBox.append("-")
-        top = topper("sub", top)
+        printBox.append(0)
+        top -= 1
     else:
-        printBox.append("NO")
+        flag = 0
 
-if "NO" in printBox:
+if flag == 0:
     print("NO")
 else:
-    for i in range(len(printBox)):
-        print(printBox[i])
+    for i in range(0, len(printBox)):
+        if printBox[i] == 1:
+            print("+")
+        else:
+            print("-")
