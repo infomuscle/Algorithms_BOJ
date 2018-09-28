@@ -3,17 +3,30 @@ import sys
 def vpsChecker(ps):
     flag = 1
     stack = []
+    before = ""
 
     for i in range(0, len(ps)):
-        if ps[i] == "(":
-            stack.append(1)
-        elif ps[i] == ")":
-            if len(stack) == 0:
-                flag = 0
-                break
-            else:
-                stack.pop()
-
+        if len(stack) == 0 and (ps[i] == "]" or ps[i] == ")"):
+            flag = 0
+            break
+        else:
+            if ps[i] == "(":
+                stack.append(ps[i])
+            elif ps[i] == ")":
+                if before == "[":
+                    flag = 0
+                    break
+                else:
+                    stack.pop()
+            elif ps[i] == "[":
+                stack.append(ps[i])
+            elif ps[i] == "]":
+                if before == "(":
+                    flag = 0
+                    break
+                else:
+                    stack.pop()
+            before = ps[i]
     if len(stack) != 0:
         flag = 0
 
@@ -23,29 +36,51 @@ def vpsChecker(ps):
         return False
 
 ps = sys.stdin.readline().rstrip()
-stack = []
+stack1 = []
+stack2 = []
 sum = 0
-
-temp = 0
+before = ""
 
 if vpsChecker(ps) == True:
     for i in range(len(ps)):
-        stack.append(ps[i])
-
-    for i in range(len(ps)-1, -1, -1):
-        if ps[i] == ")":
-            if temp == 0:
-                temp = 2
+        if ps[i] == "(":
+            stack1.append(2)
+        elif ps[i] == ")":
+            a = stack1.pop()
+            if len(stack1) == 0:
+                if len(stack2) == 0:
+                    sum += a
+                else:
+                    temp = 0
+                    for j in range(0, len(stack2)):
+                        temp += stack2[j]
+                    sum += a*temp
+                    stack2 = []
+            elif before == ")" or before == "]":
+                b = stack2.pop()
+                stack2.append(a*b)
             else:
-                temp *= 2
+                stack2.append(a)
+        elif ps[i] == "[":
+            stack1.append(3)
         elif ps[i] == "]":
-            if temp == 0:
-                temp = 3
+            a = stack1.pop()
+            if len(stack1) == 0:
+                if len(stack2) == 0:
+                    sum += a
+                else:
+                    temp = 0
+                    for j in range(0, len(stack2)):
+                        temp += stack2[j]
+                    sum += a * temp
+                    stack2 = []
+            elif before == ")" or before == "]":
+                b = stack2.pop()
+                stack2.append(a*b)
             else:
-                temp *= 3
-        elif ps[i] == "[" or ps[i] == "(":
-            sum += temp
-            temp = 0
+                stack2.append(a)
+        before = ps[i]
+
     print(sum)
 
 else:
