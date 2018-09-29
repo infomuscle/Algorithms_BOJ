@@ -1,9 +1,9 @@
-record = ["Enter uid1234 Muzi", "Enter uid4567 Prodo", "Leave uid1234", "Enter uid1234 Prodo", "Change uid4567 Ryan"]
-for i in range(len(record)):
-    box = record[i].split()
-    print(box)
+import sys
 
-# a = "Enter uid muzi"
-#
-# b = a.split(" ")
-# print(b)
+N = int(sys.stdin.readline().strip())
+
+board = []
+for i in range(N):
+    split = sys.stdin.readline().strip().split(' ')
+    board.append(split)
+print(board)
