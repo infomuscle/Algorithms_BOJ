@@ -6,10 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/9012.py" line="44" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="Line Test 2">
-      <change afterPath="$PROJECT_DIR$/10866.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="덱" />
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +19,7 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
+          <entry key="project.closed" value="52" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="4" />
@@ -57,12 +54,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="46920" />
-          <entry key="txt" value="728" />
+          <entry key="txt" value="730" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="728" />
+          <entry key="PLAIN_TEXT" value="730" />
           <entry key="Python" value="46920" />
         </counts>
       </usages-collector>
@@ -74,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10866.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            <state relative-caret-position="435">
+              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -445,13 +442,6 @@
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
     </task>
-    <task id="LOCAL-00059" summary="설탕 배달">
-      <created>1536108075157</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1536108075157</updated>
-    </task>
     <task id="LOCAL-00060" summary="상수">
       <created>1536108124252</created>
       <option name="number" value="00060" />
@@ -788,7 +778,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538188248456</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="덱">
+      <created>1538574859372</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1538574859387</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -796,7 +793,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.08267509" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.09899947" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -804,7 +801,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920633" visible="true" weight="0.22162162" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49920633" weight="0.22162162" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39929327" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -839,7 +836,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LG Code Monster" />
     <MESSAGE value="LG Code Monster - 미해결" />
     <MESSAGE value="막대기" />
     <MESSAGE value="지능형 기차" />
@@ -864,7 +860,8 @@
     <MESSAGE value="괄호의 값 - 풀이 중" />
     <MESSAGE value="Line Test 1" />
     <MESSAGE value="Line Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Line Test 2" />
+    <MESSAGE value="덱" />
+    <option name="LAST_COMMIT_MESSAGE" value="덱" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/11654.py">
@@ -1183,8 +1180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10866.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        <state relative-caret-position="435">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
