@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="덱">
-      <change afterPath="$PROJECT_DIR$/1966.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="프린터 큐" />
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,14 +48,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="48731" />
-          <entry key="txt" value="730" />
+          <entry key="py" value="48748" />
+          <entry key="txt" value="736" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="730" />
-          <entry key="Python" value="48731" />
+          <entry key="PLAIN_TEXT" value="736" />
+          <entry key="Python" value="48748" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -69,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1966.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-165">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -442,20 +439,6 @@
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
     </task>
-    <task id="LOCAL-00060" summary="상수">
-      <created>1536108124252</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1536108124252</updated>
-    </task>
-    <task id="LOCAL-00061" summary="윷놀이">
-      <created>1536115701175</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1536115701175</updated>
-    </task>
     <task id="LOCAL-00062" summary="음계">
       <created>1536213252710</created>
       <option name="number" value="00062" />
@@ -785,7 +768,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538574859387</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="프린터 큐">
+      <created>1539074653759</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1539074653760</updated>
+    </task>
+    <task id="LOCAL-00110" summary="프린터 큐">
+      <created>1539074733203</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1539074733203</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -836,7 +833,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LG Code Monster - 미해결" />
     <MESSAGE value="막대기" />
     <MESSAGE value="지능형 기차" />
     <MESSAGE value="큐" />
@@ -861,7 +857,8 @@
     <MESSAGE value="Line Test 1" />
     <MESSAGE value="Line Test 2" />
     <MESSAGE value="덱" />
-    <option name="LAST_COMMIT_MESSAGE" value="덱" />
+    <MESSAGE value="프린터 큐" />
+    <option name="LAST_COMMIT_MESSAGE" value="프린터 큐" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/11720.py">
@@ -1138,8 +1135,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1966.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="-165">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
