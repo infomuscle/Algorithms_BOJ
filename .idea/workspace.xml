@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/2747.py" line="11" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="조세퍼스 문제 0">
-      <change afterPath="$PROJECT_DIR$/1158.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="조세퍼스 문제">
+      <change afterPath="$PROJECT_DIR$/2747.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -17,8 +20,8 @@
     <session id="877774911">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="55" />
-          <entry key="project.open.time.10" value="9" />
+          <entry key="project.closed" value="56" />
+          <entry key="project.open.time.10" value="10" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="5" />
           <entry key="project.open.time.13" value="5" />
@@ -35,60 +38,45 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="13" />
-          <entry key="project.opened" value="58" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="320" />
+          <entry key="py" value="321" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="320" />
+          <entry key="Python" value="321" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="50177" />
-          <entry key="txt" value="760" />
+          <entry key="py" value="50718" />
+          <entry key="txt" value="768" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="760" />
-          <entry key="Python" value="50177" />
+          <entry key="PLAIN_TEXT" value="768" />
+          <entry key="Python" value="50718" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11866.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="19" selection-start-line="19" selection-end-line="41" selection-end-column="10" />
-              <folding>
-                <marker date="1539076368347" expanded="true" signature="447:520" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1158.py">
+        <entry file="file://$PROJECT_DIR$/2747.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -135,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15552.py" />
         <option value="$PROJECT_DIR$/10828.py" />
         <option value="$PROJECT_DIR$/1427.py" />
         <option value="$PROJECT_DIR$/2839.py" />
@@ -186,14 +173,15 @@
         <option value="$PROJECT_DIR$/2941.py" />
         <option value="$PROJECT_DIR$/11866.py" />
         <option value="$PROJECT_DIR$/1158.py" />
+        <option value="$PROJECT_DIR$/2747.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
-    <option name="height" value="1043" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -239,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1158">
+  <component name="RunManager" selected="Python.2747">
     <configuration name="10866" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Line2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2747" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Line2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2747.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,19 +421,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Line2" />
       <item itemvalue="Python.10866" />
       <item itemvalue="Python.1966" />
       <item itemvalue="Python.11866" />
       <item itemvalue="Python.1158" />
+      <item itemvalue="Python.2747" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2747" />
         <item itemvalue="Python.1158" />
         <item itemvalue="Python.11866" />
         <item itemvalue="Python.1966" />
         <item itemvalue="Python.10866" />
-        <item itemvalue="Python.Line2" />
       </list>
     </recent_temporary>
   </component>
@@ -459,20 +447,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00066" summary="셀프 넘버">
-      <created>1536213483796</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1536213483796</updated>
-    </task>
-    <task id="LOCAL-00067" summary="방 번호">
-      <created>1536241166789</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1536241166789</updated>
     </task>
     <task id="LOCAL-00068" summary="ACM 호텔">
       <created>1536292368041</created>
@@ -803,7 +777,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539076377872</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="조세퍼스 문제">
+      <created>1539136449451</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1539136449451</updated>
+    </task>
+    <task id="LOCAL-00116" summary="조세퍼스 문제">
+      <created>1539137871145</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1539137871145</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -811,7 +799,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.103174604" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13809524" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -854,7 +842,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="큐" />
     <MESSAGE value="단어 정렬" />
     <MESSAGE value="수 정렬하기 3 - 풀이 중" />
     <MESSAGE value="별찍기 - 11 - 풀이 중" />
@@ -879,12 +866,10 @@
     <MESSAGE value="스택 수열" />
     <MESSAGE value="크로아티아 알파벳" />
     <MESSAGE value="조세퍼스 문제 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="조세퍼스 문제 0" />
+    <MESSAGE value="조세퍼스 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="조세퍼스 문제" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2557.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2558.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1041,19 +1026,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="19" selection-start-line="19" selection-end-line="41" selection-end-column="10" />
-          <folding>
-            <marker date="1539076368347" expanded="true" signature="447:520" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1158.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="21">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2747.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
