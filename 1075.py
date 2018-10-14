@@ -1,3 +1,5 @@
+# 나누기 풀이 중
+
 import sys
 
 n = int(sys.stdin.readline())
