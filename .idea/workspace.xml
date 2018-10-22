@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="쉽게 푸는 문제">
-      <change afterPath="$PROJECT_DIR$/1476.py" afterDir="false" />
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="날짜 계산">
+      <change afterPath="$PROJECT_DIR$/1920.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/acmicpc$1934.coverage" NAME="1934 Coverage Results" MODIFIED="1539919673980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1075.coverage" NAME="1075 Coverage Results" MODIFIED="1539579520283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1977.coverage" NAME="1977 Coverage Results" MODIFIED="1539920682725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/acmicpc$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1540171903636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1085.coverage" NAME="1085 Coverage Results" MODIFIED="1539764415369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1292.coverage" NAME="1292 Coverage Results" MODIFIED="1540012949114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -85,37 +86,38 @@
     <session id="1717393573">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2656" />
-          <entry key="txt" value="69" />
+          <entry key="py" value="3618" />
+          <entry key="txt" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="69" />
-          <entry key="Python" value="2656" />
+          <entry key="PLAIN_TEXT" value="77" />
+          <entry key="Python" value="3618" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -123,12 +125,24 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1476.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10989.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="75">
+              <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1920.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,6 +167,8 @@
       <find>food_index</find>
       <find>Checker</find>
       <find>importantOrder</find>
+      <find>idx</find>
+      <find>numsCopy</find>
     </findStrings>
     <replaceStrings>
       <replace>c</replace>
@@ -162,6 +178,8 @@
       <replace>idx</replace>
       <replace>Adder</replace>
       <replace>importants</replace>
+      <replace>mid</replace>
+      <replace>nums</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -175,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/10250.py" />
         <option value="$PROJECT_DIR$/7287.py" />
         <option value="$PROJECT_DIR$/8393.py" />
         <option value="$PROJECT_DIR$/8958.py" />
@@ -194,7 +211,6 @@
         <option value="$PROJECT_DIR$/2455.py" />
         <option value="$PROJECT_DIR$/10845.py" />
         <option value="$PROJECT_DIR$/1181.py" />
-        <option value="$PROJECT_DIR$/10989.py" />
         <option value="$PROJECT_DIR$/2448.py" />
         <option value="$PROJECT_DIR$/2292.py" />
         <option value="$PROJECT_DIR$/1011.py" />
@@ -226,6 +242,8 @@
         <option value="$PROJECT_DIR$/1934.py" />
         <option value="$PROJECT_DIR$/1292.py" />
         <option value="$PROJECT_DIR$/1476.py" />
+        <option value="$PROJECT_DIR$/10989.py" />
+        <option value="$PROJECT_DIR$/1920.py" />
       </list>
     </option>
   </component>
@@ -249,6 +267,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,7 +279,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,29 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1476">
-    <configuration name="1159" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="acmicpc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1159.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1920">
     <configuration name="1292" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -345,6 +341,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1476.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="acmicpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1920.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -491,19 +509,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1159" />
       <item itemvalue="Python.1934" />
       <item itemvalue="Python.1977" />
       <item itemvalue="Python.1292" />
       <item itemvalue="Python.1476" />
+      <item itemvalue="Python.1920" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1920" />
         <item itemvalue="Python.1476" />
         <item itemvalue="Python.1292" />
         <item itemvalue="Python.1977" />
         <item itemvalue="Python.1934" />
-        <item itemvalue="Python.1159" />
       </list>
     </recent_temporary>
   </component>
@@ -517,20 +535,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00080" summary="LG Code Monster - 미해결">
-      <created>1537599735442</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1537599735442</updated>
-    </task>
-    <task id="LOCAL-00081" summary="막대기">
-      <created>1537626474009</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1537626474009</updated>
     </task>
     <task id="LOCAL-00082" summary="지능형 기차">
       <created>1537626589154</created>
@@ -861,7 +865,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540013022785</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="날짜 계산">
+      <created>1540128546486</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1540128546487</updated>
+    </task>
+    <task id="LOCAL-00130" summary="날짜 계산">
+      <created>1540128752116</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1540128752116</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -869,7 +887,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16842106" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1708502" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -919,7 +937,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="에라토스테네스의 체" />
     <MESSAGE value="베르트랑 공준" />
     <MESSAGE value="소수 구하기" />
     <MESSAGE value="골드바흐의 추측" />
@@ -944,12 +961,10 @@
     <MESSAGE value="최소공배수 - 풀이 중" />
     <MESSAGE value="완전제곱수" />
     <MESSAGE value="쉽게 푸는 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="쉽게 푸는 문제" />
+    <MESSAGE value="날짜 계산" />
+    <option name="LAST_COMMIT_MESSAGE" value="날짜 계산" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2775.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2839.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1069,9 +1084,6 @@
     <entry file="file://$PROJECT_DIR$/10998.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/10989.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/11866.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -1151,8 +1163,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1476.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="420">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10989.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1920.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
