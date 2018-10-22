@@ -24,8 +24,7 @@ for i in range(m):
         else:
             right = mid-1
             mid = int(left+right/2)
-        if cnt >= math.log(n, 2):
-            num = nums[mid]
+        if cnt > math.log(n, 2):
             break
 
     if num == finds[i]:
