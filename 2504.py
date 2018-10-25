@@ -15,6 +15,37 @@ def vpsChecker(ps):
             stack.append(ps[i])
 
     if len(stack) == 0:
-        print("YES")
+        return True
     else:
-        print("NO")
+        return False
+
+ps = sys.stdin.readline().rstrip()
+
+if vpsChecker(ps) == False:
+    print(0)
+else:
+    result = 0
+    temp = []
+    stack = []
+
+    for i in range(0, len(ps)):
+        if len(stack) == 0:
+            stack.append(ps[i])
+            continue
+        before = stack[len(stack)-1]
+        if before == "(" and ps[i-1] == ")" and ps[i] == ")":
+            stack.pop()
+            t = 0
+            for i in range(len(temp)):
+                t += temp.pop()
+            t *= 2
+            temp.append(t)
+        elif before == "(" and ps[i] == ")":
+            stack.pop()
+            temp.append(2)
+        else:
+            stack.append(ps[i])
+        if len(stack) == 0:
+            result += temp.pop()
+
+    print(result)

@@ -4,9 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/1920.py" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="수 정렬하기 3">
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="괄호의 값 - vpsChecker() 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2504.py" beforeDir="false" afterPath="$PROJECT_DIR$/2504.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -22,7 +23,7 @@
     <SUITE FILE_PATH="coverage/acmicpc$10989.coverage" NAME="10989 Coverage Results" MODIFIED="1540341048380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1075.coverage" NAME="1075 Coverage Results" MODIFIED="1539579520283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1977.coverage" NAME="1977 Coverage Results" MODIFIED="1539920682725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/acmicpc$2504.coverage" NAME="2504 Coverage Results" MODIFIED="1540427414013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/acmicpc$2504.coverage" NAME="2504 Coverage Results" MODIFIED="1540445712174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1085.coverage" NAME="1085 Coverage Results" MODIFIED="1539764415369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1159.coverage" NAME="1159 Coverage Results" MODIFIED="1539834853824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1476.coverage" NAME="1476 Coverage Results" MODIFIED="1540128494594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -92,8 +93,8 @@
     <session id="1717393573">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.13" value="5" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.13" value="8" />
           <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -102,29 +103,29 @@
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4713" />
-          <entry key="txt" value="103" />
+          <entry key="py" value="6492" />
+          <entry key="txt" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="103" />
-          <entry key="Python" value="4713" />
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="6492" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -132,14 +133,23 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2504.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="67">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="45" column="32" lean-forward="true" selection-end-line="48" />
               <folding>
-                <marker date="1540427407121" expanded="true" signature="31:469" ph="..." />
+                <marker date="1540443078311" expanded="true" signature="451:607" ph="..." />
               </folding>
             </state>
           </provider>
@@ -219,7 +229,6 @@
         <option value="$PROJECT_DIR$/9020.py" />
         <option value="$PROJECT_DIR$/9012.py" />
         <option value="$PROJECT_DIR$/Line1.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Line2.py" />
         <option value="$PROJECT_DIR$/11st2.py" />
         <option value="$PROJECT_DIR$/10866.py" />
@@ -241,6 +250,7 @@
         <option value="$PROJECT_DIR$/1920.py" />
         <option value="$PROJECT_DIR$/1547.py" />
         <option value="$PROJECT_DIR$/10989.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/2504.py" />
       </list>
     </option>
@@ -265,6 +275,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,7 +287,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,13 +543,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00089" summary="벌집">
-      <created>1537804045070</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1537804045070</updated>
     </task>
     <task id="LOCAL-00090" summary="Fly me to the Alpha Centauri">
       <created>1537807695764</created>
@@ -877,7 +880,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540341212745</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="괄호의 값 - vpsChecker() 구현">
+      <created>1540428528411</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1540428528412</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -885,7 +895,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18218623" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19190283" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -893,7 +903,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49920633" weight="0.25668448" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920633" visible="true" weight="0.25668448" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39929327" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -907,26 +917,6 @@
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12532912" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50079364" side_tool="true" weight="0.32155478" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920633" visible="true" weight="0.22162162" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39929327" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -935,7 +925,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="괄호" />
     <MESSAGE value="괄호의 값 - 풀이 중" />
     <MESSAGE value="Line Test 1" />
     <MESSAGE value="Line Test 2" />
@@ -960,12 +949,10 @@
     <MESSAGE value="수 찾기" />
     <MESSAGE value="공" />
     <MESSAGE value="수 정렬하기 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="수 정렬하기 3" />
+    <MESSAGE value="괄호의 값 - vpsChecker() 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="괄호의 값 - vpsChecker() 구현" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2920.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2941.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1181,13 +1168,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="45" column="32" lean-forward="true" selection-end-line="48" />
+          <folding>
+            <marker date="1540443078311" expanded="true" signature="451:607" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2504.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <marker date="1540427407121" expanded="true" signature="31:469" ph="..." />
-          </folding>
+        <state relative-caret-position="67">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
