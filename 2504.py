@@ -33,19 +33,27 @@ else:
             stack.append(ps[i])
             continue
         before = stack[len(stack)-1]
-        if before == "(" and ps[i-1] == ")" and ps[i] == ")":
+        if (before == "(" or before == "[") and (ps[i-1] == ")" or ps[i-1] == "]") and (ps[i] == ")" or ps[i] == "]"):
             stack.pop()
+            if ps[i] == ")":
+                m = 2
+            elif ps[i] == "]":
+                m = 3
             if len(stack) == 0:
                 t = 0
                 for i in range(len(temp)):
                     t += temp.pop()
-                t *= 2
+                t *= m
                 temp.append(t)
             else:
-                temp[len(temp)-1] *= 2
-        elif before == "(" and ps[i] == ")":
+                temp[len(temp)-1] *= m
+        elif (before == "(" or before == "[") and (ps[i] == ")" or ps[i] == "]"):
+            if ps[i] == ")":
+                m = 2
+            elif ps[i] == "]":
+                m = 3
             stack.pop()
-            temp.append(2)
+            temp.append(m)
         else:
             stack.append(ps[i])
         if len(stack) == 0:
