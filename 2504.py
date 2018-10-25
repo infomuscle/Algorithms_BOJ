@@ -35,11 +35,14 @@ else:
         before = stack[len(stack)-1]
         if before == "(" and ps[i-1] == ")" and ps[i] == ")":
             stack.pop()
-            t = 0
-            for i in range(len(temp)):
-                t += temp.pop()
-            t *= 2
-            temp.append(t)
+            if len(stack) == 0:
+                t = 0
+                for i in range(len(temp)):
+                    t += temp.pop()
+                t *= 2
+                temp.append(t)
+            else:
+                temp[len(temp)-1] *= 2
         elif before == "(" and ps[i] == ")":
             stack.pop()
             temp.append(2)
