@@ -135,37 +135,37 @@
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.74" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="15170" />
-          <entry key="txt" value="353" />
+          <entry key="py" value="15271" />
+          <entry key="txt" value="359" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="357" />
-          <entry key="Python" value="15170" />
+          <entry key="PLAIN_TEXT" value="363" />
+          <entry key="Python" value="15271" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="55" />
+          <entry key="py" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="55" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -587,13 +587,6 @@
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
     </task>
-    <task id="LOCAL-00126" summary="완전제곱수">
-      <created>1539920715343</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1539920715344</updated>
-    </task>
     <task id="LOCAL-00127" summary="완전제곱수">
       <created>1539920781445</created>
       <option name="number" value="00127" />
@@ -930,7 +923,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541768808928</updated>
     </task>
-    <option name="localTasksCounter" value="175" />
+    <task id="LOCAL-00175" summary="정수 제곱근">
+      <created>1541857081645</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1541857081646</updated>
+    </task>
+    <option name="localTasksCounter" value="176" />
     <servers />
   </component>
   <component name="ToolWindowManager">
