@@ -11,6 +11,8 @@ import sys
 
 n = int(sys.stdin.readline())
 
+line1, line2 = None, None
+
 if n%2 == 0:
     line1 = "* " * (n//2)
 elif n%2 == 1:
