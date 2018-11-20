@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="8진수 2진수">
-      <change afterPath="$PROJECT_DIR$/13420.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2935.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -54,6 +54,7 @@
     <SUITE FILE_PATH="coverage/acmicpc$2522.coverage" NAME="2522 Coverage Results" MODIFIED="1542430466801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$10757.coverage" NAME="10757 Coverage Results" MODIFIED="1541307990140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$10953.coverage" NAME="10953 Coverage Results" MODIFIED="1541684122984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/acmicpc$2935.coverage" NAME="2935 Coverage Results" MODIFIED="1542716328549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$1748.coverage" NAME="1748 Coverage Results" MODIFIED="1542587376011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$13420.coverage" NAME="13420 Coverage Results" MODIFIED="1542715553984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/acmicpc$10886.coverage" NAME="10886 Coverage Results" MODIFIED="1540776179529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -180,24 +181,24 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="py" value="20469" />
-          <entry key="txt" value="509" />
+          <entry key="py" value="20491" />
+          <entry key="txt" value="521" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="521" />
-          <entry key="Python" value="20469" />
+          <entry key="PLAIN_TEXT" value="533" />
+          <entry key="Python" value="20491" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="82" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="82" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -209,17 +210,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1212.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2935.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13420.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="90">
+              <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -273,7 +283,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15740.py" />
         <option value="$PROJECT_DIR$/15802.py" />
         <option value="$PROJECT_DIR$/11942.py" />
         <option value="$PROJECT_DIR$/10950.py" />
@@ -322,8 +331,9 @@
         <option value="$PROJECT_DIR$/2475.py" />
         <option value="$PROJECT_DIR$/1373.py" />
         <option value="$PROJECT_DIR$/1629.py" />
-        <option value="$PROJECT_DIR$/1212.py" />
         <option value="$PROJECT_DIR$/13420.py" />
+        <option value="$PROJECT_DIR$/1212.py" />
+        <option value="$PROJECT_DIR$/2935.py" />
       </list>
     </option>
   </component>
@@ -384,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.13420">
+  <component name="RunManager" selected="Python.2935">
     <configuration name="1212" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -473,7 +483,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2475" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2935" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="acmicpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -486,7 +496,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2475.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2935.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -589,19 +599,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2475" />
       <item itemvalue="Python.1373" />
       <item itemvalue="Python.1629" />
       <item itemvalue="Python.1212" />
       <item itemvalue="Python.13420" />
+      <item itemvalue="Python.2935" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2935" />
         <item itemvalue="Python.13420" />
         <item itemvalue="Python.1212" />
         <item itemvalue="Python.1629" />
         <item itemvalue="Python.1373" />
-        <item itemvalue="Python.2475" />
       </list>
     </recent_temporary>
   </component>
@@ -615,20 +625,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527588169073</updated>
-    </task>
-    <task id="LOCAL-00155" summary="A + B - 3">
-      <created>1540792607374</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1540792607374</updated>
-    </task>
-    <task id="LOCAL-00156" summary="A + B - 5">
-      <created>1540858949287</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1540858949288</updated>
     </task>
     <task id="LOCAL-00157" summary="A + B - 7">
       <created>1540859193255</created>
@@ -959,7 +955,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542715149011</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="사칙연산">
+      <created>1542715663583</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1542715663583</updated>
+    </task>
+    <task id="LOCAL-00205" summary="8진수 2진수">
+      <created>1542715842847</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1542715842847</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -997,7 +1007,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="윤년" />
     <MESSAGE value="기념일 1" />
     <MESSAGE value="별 찍기 - 5 - 풀이 중" />
     <MESSAGE value="별 찍기 - 5" />
@@ -1021,17 +1030,11 @@
     <MESSAGE value="수 이어 쓰기 1 - 풀이 중" />
     <MESSAGE value="검증수" />
     <MESSAGE value="2진수 8진수" />
+    <MESSAGE value="사칙연산" />
     <MESSAGE value="8진수 2진수" />
     <option name="LAST_COMMIT_MESSAGE" value="8진수 2진수" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/15802.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11942.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1352,17 +1355,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1212.py">
+    <entry file="file://$PROJECT_DIR$/13420.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="90">
+          <caret line="6" column="56" lean-forward="true" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13420.py">
+    <entry file="file://$PROJECT_DIR$/1212.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2935.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
