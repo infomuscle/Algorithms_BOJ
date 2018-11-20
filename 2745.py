@@ -15,7 +15,5 @@
 import sys
 
 n, b = map(str, sys.stdin.readline().split())
-
 result = int(n, int(b))
-
 print(result)
