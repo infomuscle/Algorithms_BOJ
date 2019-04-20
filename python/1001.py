@@ -7,5 +7,8 @@
 # 출력
 # 첫째 줄에 A-B를 출력한다.
 
-a = input().split()
-print(int(a[0]) - int(a[1]))
+import sys
+
+num1, num2 = map(int, sys.stdin.readline().split())
+
+print(num1-num2)
