@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="뒤집힌 덧셈">
-      <change beforePath="$PROJECT_DIR$/python/1021.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/1065.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1065.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -137,11 +137,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/1021.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="866">
               <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/1065.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -195,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11648.py" />
         <option value="$PROJECT_DIR$/1550.py" />
         <option value="$PROJECT_DIR$/1755.py" />
         <option value="$PROJECT_DIR$/2167.py" />
@@ -246,6 +254,7 @@
         <option value="$PROJECT_DIR$/python/10039.py" />
         <option value="$PROJECT_DIR$/python/1011.py" />
         <option value="$PROJECT_DIR$/python/1021.py" />
+        <option value="$PROJECT_DIR$/python/1065.py" />
       </list>
     </option>
   </component>
@@ -575,7 +584,7 @@
       <workItem from="1559293983487" duration="1001000" />
       <workItem from="1559480557046" duration="779000" />
       <workItem from="1560663530506" duration="178000" />
-      <workItem from="1560685403481" duration="383000" />
+      <workItem from="1560685403481" duration="419000" />
     </task>
     <task id="LOCAL-00210" summary="유학 금지">
       <created>1542795836246</created>
@@ -924,7 +933,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8716000" />
+    <option name="totallyTimeSpent" value="8752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1110,13 +1119,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/1065.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/11866.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1214,6 +1216,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="866">
           <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/1065.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
