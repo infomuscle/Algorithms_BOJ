@@ -45,3 +45,4 @@ for t in range(tc):
     elif lastNum == 2 or lastNum == 3 or lastNum == 7 or lastNum == 8:
         idx = b%4
         print(mods[lastNum][idx-1])
+        
