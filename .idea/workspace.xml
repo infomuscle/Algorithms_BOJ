@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="뒤집힌 덧셈">
-      <change afterPath="$PROJECT_DIR$/python/17174.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="뒤집힌 덧셈" />
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\infom\Dropbox\Programming\acmicpc\.idea\shelf/" />
@@ -160,7 +157,7 @@
         <entry file="file://$PROJECT_DIR$/python/17174.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="7" lean-forward="true" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -592,7 +589,7 @@
       <workItem from="1557132901280" duration="233000" />
       <workItem from="1559121350357" duration="1148000" />
       <workItem from="1559293983487" duration="1001000" />
-      <workItem from="1559480557046" duration="631000" />
+      <workItem from="1559480557046" duration="779000" />
     </task>
     <task id="LOCAL-00210" summary="유학 금지">
       <created>1542795836246</created>
@@ -941,11 +938,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8007000" />
+    <option name="totallyTimeSpent" value="8155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21428572" />
@@ -956,7 +952,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32685512" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920633" visible="true" weight="0.2897959" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49920633" weight="0.2897959" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -1208,7 +1204,7 @@
     <entry file="file://$PROJECT_DIR$/python/17174.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="7" lean-forward="true" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
