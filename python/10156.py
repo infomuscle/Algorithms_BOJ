@@ -25,7 +25,6 @@
 import sys
 
 k, n, m = map(int, sys.stdin.readline().split())
-
 need = k*n
 
 if need > m:

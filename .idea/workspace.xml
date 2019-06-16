@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a211ce92-6cc5-432f-9203-456ca9400217" name="Default" comment="뒤집힌 덧셈">
-      <change beforePath="$PROJECT_DIR$/python/1065.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1065.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/10156.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/10156.py" afterDir="false" />
     </list>
     <ignored path="C:\Users\infom\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
     <ignored path="C:\Users\student\Dropbox\프로그래밍\acmicpc\.idea\shelf/" />
@@ -147,10 +147,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/1065.py">
+        <entry file="file://$PROJECT_DIR$/python/10156.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="390">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -204,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1550.py" />
         <option value="$PROJECT_DIR$/1755.py" />
         <option value="$PROJECT_DIR$/2167.py" />
         <option value="$PROJECT_DIR$/5338.py" />
@@ -255,6 +254,7 @@
         <option value="$PROJECT_DIR$/python/1011.py" />
         <option value="$PROJECT_DIR$/python/1021.py" />
         <option value="$PROJECT_DIR$/python/1065.py" />
+        <option value="$PROJECT_DIR$/python/10156.py" />
       </list>
     </option>
   </component>
@@ -584,7 +584,7 @@
       <workItem from="1559293983487" duration="1001000" />
       <workItem from="1559480557046" duration="779000" />
       <workItem from="1560663530506" duration="178000" />
-      <workItem from="1560685403481" duration="419000" />
+      <workItem from="1560685403481" duration="548000" />
     </task>
     <task id="LOCAL-00210" summary="유학 금지">
       <created>1542795836246</created>
@@ -933,7 +933,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8752000" />
+    <option name="totallyTimeSpent" value="8881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1037,7 +1037,6 @@
     <SUITE FILE_PATH="coverage/acmicpc$2744.coverage" NAME="2744 Coverage Results" MODIFIED="1555750298326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2884.py" />
     <entry file="file://$PROJECT_DIR$/4101.py" />
     <entry file="file://$PROJECT_DIR$/5063.py" />
     <entry file="file://$PROJECT_DIR$/2754.py" />
@@ -1212,6 +1211,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python/1065.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python/1021.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="866">
@@ -1219,10 +1225,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/1065.py">
+    <entry file="file://$PROJECT_DIR$/python/10156.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="390">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
