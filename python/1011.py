@@ -45,3 +45,4 @@ for i in range(0, tc):
                 add += 1
             start += add
             idx += 1
+            
