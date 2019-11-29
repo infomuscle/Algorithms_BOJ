@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d2626f5-928b-49f8-8ab9-91968d6024b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d2626f5-928b-49f8-8ab9-91968d6024b7" name="Default Changelist" comment="git test push one more">
       <change beforePath="$PROJECT_DIR$/2869.py" beforeDir="false" afterPath="$PROJECT_DIR$/2869.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
@@ -101,7 +100,7 @@
       <workItem from="1574945092879" duration="539000" />
       <workItem from="1574948365607" duration="108000" />
       <workItem from="1574961554017" duration="42000" />
-      <workItem from="1575013942309" duration="234000" />
+      <workItem from="1575013942309" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1555423600518</created>
@@ -173,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574945649089</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="git test push one more">
+      <created>1575014204154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575014204154</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,3 +6,4 @@ for i in range(10):
         print("practice")
 
 # git config test for pycharm
+# change name
